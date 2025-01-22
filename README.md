@@ -23,7 +23,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 # My Awesome Project
 
-![GitHub stars](https://img.shields.io/github/stars/69d9/README.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/69d9/README.md?style=social)
+![GitHub stars](https://img.shields.io/github/stars/69d9/DosUrL?style=social)
+![GitHub forks](https://img.shields.io/github/forks/69d9/DosUrL?style=social)
+
+
 
 Welcome to my project! Here's a brief description...
