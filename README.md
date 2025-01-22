@@ -11,7 +11,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=69d9)](https://git.io/streak-stats)
+![GitHub Streak](https://camo.githubusercontent.com/5fb05a848ff6831a3d5c08a36f0b627bb970a8504880b3159cad1499baf0dc2c/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4472446174615945266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35262662675f636f6c6f723d3030303030303030)
+
+
 
 
 ## 🍁 My Skill Stack:
