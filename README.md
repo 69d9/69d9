@@ -20,3 +20,10 @@ Welcome to my GitHub profile! Here's a little about me:
 ## Let's Connect:
 - Twitter: [@yourhandle](https://twitter.com/ppupp)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/ppupp)
+
+# My Awesome Project
+
+![GitHub stars](https://img.shields.io/github/stars/69d9/README.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/69d9/README.md?style=social)
+
+Welcome to my project! Here's a brief description...
