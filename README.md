@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🔥 GitHub Streak:
-![GitHub Streak](https://github.com/DrDataYE#-my-skill-stack-)
+![GitHub Streak](https://camo.githubusercontent.com/46948cc0e9c3abdcd750963e7760242d29c2be0f779560acec5bc0864e668515/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4343323430303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 
 
 ---
