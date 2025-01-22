@@ -49,8 +49,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## ✌️ Some Statistics:
 
-![Profile Views](https://komarev.com/ghpvc/?username=69d9&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/69d9?style=social)  
+![Profile Views](https://camo.githubusercontent.com/db35b839961e1c9da9170a30908bc75e02fa18e74f4b4c280a53b3a3908d5265/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d447244617461594526636f6c6f723d626c7565267374796c653d666c61742d737175617265)  
+![GitHub Followers](https://camo.githubusercontent.com/956b3f834b860c549f24a09ec7e1cdde03c2f827e062f3bbd83887c8adc48797/68747470733a2f2f757365722d62616467652e636f6d6d6974746572732e746f702f79656d656e2f44724461746159452e737667)  
 
 ---
 
