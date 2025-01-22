@@ -51,13 +51,10 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🙌 My Channels:
 - [Telegram Channel](https://t.me/WW6WW6WW6)  
-- [Website](https://example.com)  
-- [YouTube](https://youtube.com)  
+
 
 ---
-
 ## 🤝 Connect with Me:
 - [Twitter](https://twitter.com/ppupp)  
-- [GitHub](https://github.com/69d9)  
-- [Instagram](https://instagram.com/yourprofile)  
+- [GitHub](https://github.com/69d9)   
 - [Telegram](https://t.me/WW6WW6WW6)
