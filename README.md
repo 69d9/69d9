@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ghost LulzSec 👋
 
-<!--
-**69d9/69d9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on some awesome projects!
+- 🌱 I'm learning more about cybersecurity, AI, and cloud technologies.
+- 📫 How to reach me: [https://t.me/WW6WW6WW6]
+- 💬 Ask me about anything related to Python, security, and web development.
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies and Tools:
+- **Languages**: Python, JavaScript, , Go
+- **Tools**: Docker, Git, Jenkins, Kubernetes
+- **Security**: CTF challenges, Pen Testing, Ethical Hacking
+
+### Some of my projects:
+- [Project 1](https://github.com/69d9/DosUrL.git)
+- [Project 2](https://github.com/69d9/ParamFetch.git)
+
+## Let's Connect:
+- Twitter: [@yourhandle](https://twitter.com/ppupp)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ppupp)
