@@ -56,7 +56,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🙌 My Channels:
-- [Telegram Channel](https://t.me/WW6WW6WW6)  
+- [Telegram Channel](https://t.me/HereMalaria)  
 
 
 ---
